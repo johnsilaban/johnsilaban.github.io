@@ -1,13 +1,14 @@
 body{
-    background-color: white;
-    color:blue
+    background-color: darkslategray;
+    color:darkcyan
 }
 h1{
-    color:blue;
+    color:darkcyan;
     font-family: Arial;
 }
 h2{
-    color:lightskyblue;
+    color:darkcyan;
+    font-family:arial
 }
 a{
     font-family:Arial;
