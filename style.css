@@ -5,3 +5,9 @@ body{
 h1{
     color:blue;
 }
+h2{
+    color:lightskyblue;
+}
+a{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
