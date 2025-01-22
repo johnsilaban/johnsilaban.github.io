@@ -5,7 +5,11 @@ body{
 h1{
     color:darkcyan;
     font-family: Arial;
-    text-shadow: 2px 2px #e0ffff;
+    text-shadow: 2px 2px #00ffff
+}
+p{
+    color:darkcyan;
+    font-family: Arial;
 }
 h2{
     color:darkcyan;
