@@ -22,5 +22,6 @@ a{
     width:"75%";
 }
 .move{
-    vertical-align: -30px;
+    position:relative;
+    top:30px;
 }
